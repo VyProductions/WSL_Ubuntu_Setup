@@ -9,8 +9,11 @@ To ensure that this method will work for you, please [check that your computer s
 
 1. Right click on the Windows icon in the taskbar.
 2. Click `Windows Terminal (Admin)`. Confirm on the next dialog with `Yes`.
-3. Enter the following command into the terminal: `Set-ExecutionPolicy Unrestricted`
-4. Click `Yes` if a confirmation dialog appears.
+3. Enter the following command into the terminal:
+```sh
+Set-ExecutionPolicy Unrestricted
+```
+5. Click `Yes` if a confirmation dialog appears.
 
 **Note: When you are finished with this setup, set the execution policy level back to Restricted to protect yourself from malicious scripts:**
 
