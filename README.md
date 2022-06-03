@@ -26,13 +26,13 @@ Set-ExecutionPolicy Restricted
 1. Download `WSL-Setup.ps1`:
 
 ```sh
-Invoke-WebRequest -Uri "https://github.com/VyProductions/WSL_Ubuntu_Setup/main/WSL-Setup.ps1" -OutFile ~/Desktop/WSL-Setup.ps1
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/VyProductions/WSL_Ubuntu_Setup/main/WSL-Setup.ps1
 ```
 
 2. Download `Ubuntu-Setup.sh`:
 
 ```sh
-Invoke-WebRequest -Uri "https://github.com/VyProductions/WSL_Ubuntu_Setup/main/Ubuntu-Setup.sh" -OutFile ~/Desktop/Ubuntu-Setup.sh
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/VyProductions/WSL_Ubuntu_Setup/main/Ubuntu-Setup.ps1
 ```
 
 ### After both are downloaded, we can finally set up WSL Ubuntu.
