@@ -51,7 +51,7 @@ Ubuntu may open during the script's execution.
   If it is not prompting you to create a profile for Ubuntu, close Ubuntu at this time.
   If it is prompting you to create a profile for Ubuntu, skip to the next section.
 
-Once the script is finished running, it will prompt you to restart your computer to complete the setup. Do so at your convenience, though it is likely necessary to do so in order to begin using Ubuntu.
+You may be prompted to restart your computer by Ubuntu and/or PowerShell. Please do so after the script in PowerShell has finished its execution.
 
 ### After WSL has been set up, open your start menu and launch the now-downloaded Ubuntu application.
 
