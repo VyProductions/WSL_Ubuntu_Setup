@@ -72,8 +72,13 @@ To run the Ubuntu setup script, we first want to move the script into our virtua
 6. Open your user's folder. (The name you chose when you made your profile)
 7. Drag `Ubuntu-Setup.sh` from your desktop into this directory.
 8. Close File Explorer and go back to Ubuntu.
+9. Enter the following command into the terminal:
 
-Now within Ubuntu's terminal, assuming we are logged in, we can run the `Ubuntu-Setup.sh` script to get a set of utilities for us like remote directory mounting and a compiler for our code:
+```sh
+chmod +x ~/Ubuntu-Setup.sh
+```
+
+Now we can run the `Ubuntu-Setup.sh` script to get a set of utilities for us like remote directory mounting and a compiler for our code:
 
 ```sh
 ~/Ubuntu-Setup.sh
