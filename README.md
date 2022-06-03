@@ -32,7 +32,7 @@ Invoke-WebRequest -Uri https://raw.githubusercontent.com/VyProductions/WSL_Ubunt
 2. Download `Ubuntu-Setup.sh`:
 
 ```sh
-Invoke-WebRequest -Uri https://raw.githubusercontent.com/VyProductions/WSL_Ubuntu_Setup/main/Ubuntu-Setup.ps1
+Invoke-WebRequest -Uri https://raw.githubusercontent.com/VyProductions/WSL_Ubuntu_Setup/main/Ubuntu-Setup.sh
 ```
 
 ### After both are downloaded, we can finally set up WSL Ubuntu.
