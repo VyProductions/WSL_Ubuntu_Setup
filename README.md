@@ -15,7 +15,7 @@ To ensure that this method will work for you, please [check that your computer s
 ```sh
 Set-ExecutionPolicy Unrestricted
 ```
-5. Click `Yes` if a confirmation dialog appears.
+4. Click `Yes` if a confirmation dialog appears.
 
 **Note: When you are finished with this setup, set the execution policy level back to Restricted to protect yourself from malicious scripts:**
 
